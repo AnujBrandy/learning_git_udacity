@@ -1,0 +1,2 @@
+git is version controlling software that lets us maintain versions of your files so that even one loses them at certain point of time, he/she can retrieve it later.
+one can undo the changes that has made to the files to work with the files that is older but you think some of the changes has made the files non negotiable and want to trace back to the precious versions.
